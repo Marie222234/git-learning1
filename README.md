@@ -1,2 +1,2 @@
-# git-learning1
-# git-learning1
+# git-learning
+- A project for learning all about git

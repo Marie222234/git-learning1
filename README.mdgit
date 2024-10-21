@@ -1,1 +1,0 @@
-# git-learning1 initgit add README.mdgit commit -m first commitgit branch -M maingit remote add origin https://github.com/Marie222234/git-learning1.gitgit push -u origin main
